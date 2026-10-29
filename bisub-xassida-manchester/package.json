@@ -1,0 +1,8 @@
+{
+  "name": "bisub-xassida-manchester-2026",
+  "version": "1.0.0",
+  "description": "Bisub Xassida Manchester 2026 - Cadre photo participants",
+  "scripts": {
+    "start": "npx serve . -l $PORT --no-clipboard"
+  }
+}
